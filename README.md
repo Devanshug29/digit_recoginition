@@ -4,4 +4,4 @@ Machine learning Self study -Classify hand-written digits from  0-9  with convol
 
 ![](screenshot/screenshot_final.png)
 
-![](screenshot/screenshot-2.png)
+![](screenshot/screenshot-23.png)
